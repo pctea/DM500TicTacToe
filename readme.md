@@ -134,7 +134,7 @@
 	</details>
 11. Delete one of the version (or keep both), most important is that you delete the <<<<<<<< HEAD and <<<<<<<< [CommitID]
 12. Commit your changes, include -am and remember to write a message about your change and that a merge conflict occured but you fixed it.
-13. Push your changes
+13. Push your changes and go to step 3 until all have tried to handle a merge conflict.
 ## Merge conflict explained:
 A merge conflict can occur when two or more changes are made by two or more persons, while working on the same base file. Imagine having a file with the following task written in it:
 ```java
