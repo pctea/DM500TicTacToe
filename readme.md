@@ -30,12 +30,12 @@
 	```git
 	git pull
 	```
-3. Open the .tex document using your favorite text editor, and eligible spot.
+3. Open the .tex document using your favorite text editor, and pick a eligible spot.
 4. Compile the .tex document and check that you are satisfied with the changes in the created pdf file:
 	```git
 	pdflatex TicTacToe.tex
 	```
-5. Compiling the latex document created 5 new files, which git does not know exists, we need to make git know that the pdf file exists. Do the following command to check which files has been changed and which are "untracked"
+5. Compiling the latex document created 5 new files, which git does not know exists. We need to make git know that the pdf file exists. Do the following command to check which files has been changed and which are "untracked"
 	```git
 	git status
 	```	
@@ -58,7 +58,7 @@
 	git pull
 	```
 2. Open the pdf, check that the player before you's move has been added, and check if that player has won. Should it not be added you need to go back and figure out what went wrong.
-3. Open the .tex document using your favorite text editor, and eligible spot.
+3. Open the .tex document using your favorite text editor, and pick an eligible spot.
 4. Compile the .tex document and check that you are satisfied with the changes in the modified pdf file (**If you already had the pdf open, you might have to close it before compiling**):
 	```git
 	pdflatex tictactoe.tex
