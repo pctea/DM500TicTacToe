@@ -45,7 +45,7 @@
 	```
 7. Now we want to prepare sending our changes to the shared git repository, we do this using the commit command:
 	```git
-	git commit -m "I have now made the winning move, you lose!"
+	git commit -am "I have now made the winning move, you lose!"
 	```
 	The '-m' defines that you wish to define a message to the changes you made. The -m is followed by the message, where you should describe the changes you made.
 8. Finally you push the changes to the git repository, making it available for your competitors in our game, but usually only available to you fellow collaborators, which concludes your turn. 
