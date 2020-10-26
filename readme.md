@@ -22,7 +22,7 @@
 	```
 ## How to play the same game
 1. Pick a person and use that persons repository.
-2. All players, except picked owner of this repository from step 1, must then locate the https clone link on github for this repository. Using this link the repository should be cloned into the **github projects** folder. **Please avoid cloning a repository inside a repository as that really gets messy, so please navigate back to your github project folder before cloning. You can navigates back to the parent folder by doing 'cd ..' in your terminal**
+2. All players, except picked owner of this repository from step 1, must then locate the https clone link on github for this repository. Using this link the repository should be cloned into the **github projects** folder. **Please avoid cloning a repository inside a repository as that really gets messy, so please navigate back to your github project folder before cloning. You can navigate back to the parent folder by doing 'cd ..' in your terminal**
 # How to play the game:
 ## Starting the first game out:
 1. On the very first turn, you will have to decide which one of you starts.
